@@ -1,0 +1,189 @@
+{
+  "educational-blocks": [
+    {
+      "id": 0,
+      "name": "Weekday",
+      "languageTerm": "en",
+      "languageTranslation": "ru",
+      "words": [
+        {
+          "term": "Monday",
+          "translation": "Понедельник",
+          "transcription": "|ˈmʌndeɪ|"
+        },
+        {
+          "term": "Tuesday",
+          "translation": "Вторник",
+          "transcription": "|ˈtjuːzdeɪ|"
+        },
+        {
+          "term": "Wednesday",
+          "translation": "Среда",
+          "transcription": "|ˈwɛnzdeɪ|"
+        },
+        {
+          "term": "Thursday",
+          "translation": "Четверг",
+          "transcription": "|ˈθɜːrzdeɪ|"
+        },
+        {
+          "term": "Friday",
+          "translation": "Пятница",
+          "transcription": "|ˈfraɪdeɪ|"
+        },
+        {
+          "term": "Saturday",
+          "translation": "Суббота",
+          "transcription": "|ˈsætərdeɪ|"
+        },
+        {
+          "term": "Sunday",
+          "translation": "Воскресенье",
+          "transcription": "|ˈsʌndeɪ|"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Colors",
+      "languageTerm": "en",
+      "languageTranslation": "ru",
+      "words": [
+        {
+          "term": "Red",
+          "translation": "Красный",
+          "transcription": "|rɛd|"
+        },
+        {
+          "term": "Blue",
+          "translation": "Синий",
+          "transcription": "|bluː|"
+        },
+        {
+          "term": "Green",
+          "translation": "Зеленый",
+          "transcription": "|ɡriːn|"
+        },
+        {
+          "term": "Yellow",
+          "translation": "Желтый",
+          "transcription": "|ˈjɛloʊ|"
+        },
+        {
+          "term": "Purple",
+          "translation": "Фиолетовый",
+          "transcription": "|ˈpɜːrpl̩|"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fruits",
+      "languageTerm": "en",
+      "languageTranslation": "ru",
+      "words": [
+        {
+          "term": "Apple",
+          "translation": "Яблоко",
+          "transcription": "|ˈæpl̩|"
+        },
+        {
+          "term": "Banana",
+          "translation": "Банан",
+          "transcription": "|bəˈnænə|"
+        },
+        {
+          "term": "Orange",
+          "translation": "Апельсин",
+          "transcription": "|ˈɔːrɪndʒ|"
+        },
+        {
+          "term": "Grapes",
+          "translation": "Виноград",
+          "transcription": "|ɡreɪps|"
+        },
+        {
+          "term": "Mango",
+          "translation": "Манго",
+          "transcription": "|ˈmæŋɡoʊ|"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Animals",
+      "languageTerm": "en",
+      "languageTranslation": "ru",
+      "words": [
+        {
+          "term": "Dog",
+          "translation": "Собака",
+          "transcription": "|dɔɡ|"
+        },
+        {
+          "term": "Cat",
+          "translation": "Кошка",
+          "transcription": "|kæt|"
+        },
+        {
+          "term": "Elephant",
+          "translation": "Слон",
+          "transcription": "|ˈɛlɪfənt|"
+        },
+        {
+          "term": "Lion",
+          "translation": "Лев",
+          "transcription": "|ˈlaɪən|"
+        },
+        {
+          "term": "Tiger",
+          "translation": "Тигр",
+          "transcription": "|ˈtaɪɡər|"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "IT Terms",
+      "languageTerm": "en",
+      "languageTranslation": "ru",
+      "words": [
+        {
+          "term": "Algorithm",
+          "translation": "Алгоритм",
+          "transcription": "|ˈælɡəˌrɪðəm|"
+        },
+        {
+          "term": "Database",
+          "translation": "База данных",
+          "transcription": "|ˈdeɪtəˌbeɪs|"
+        },
+        {
+          "term": "Programming",
+          "translation": "Программирование",
+          "transcription": "|ˈproʊˌɡræmɪŋ|"
+        },
+        {
+          "term": "Framework",
+          "translation": "Фреймворк",
+          "transcription": "|ˈfreɪmˌwɜːrk|"
+        },
+        {
+          "term": "Server",
+          "translation": "Сервер",
+          "transcription": "|ˈsɜːrvər|"
+        },
+        {
+          "term": "Debugging",
+          "translation": "Отладка",
+          "transcription": "|dɪˈbʌɡɪŋ|"
+        },
+        {
+          "term": "Code",
+          "translation": "Код",
+          "transcription": "|koʊd|"
+        }
+      ]
+    }
+  ]
+}
